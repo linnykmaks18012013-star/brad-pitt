@@ -1,0 +1,35 @@
+body{
+  font-family: cursive;
+  background-color: #e8d092;
+}
+h1{
+    text-align: center;
+     background-color: #f0cd73;
+}
+h2{
+      text-align: center;
+      color: #f21d81;
+      font-size: 16px;
+}
+h3{
+    color: black;
+    text-align: center;
+    background-color: #f0cd73;
+}
+img{
+    width: 250px;
+    text-align: center;}
+head{
+    text-align: center; 
+}
+h4{
+ text-align: center; 
+}
+nav{
+   text-align: center;  
+}
+h5{
+     text-align: center;  
+     background-color: #d4a428;
+     margin: 20px 20px 20px 20px;
+}
